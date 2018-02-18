@@ -1,0 +1,1 @@
+# An attempt at making a neural network with genetic algorithm for training.
